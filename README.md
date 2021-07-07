@@ -80,17 +80,3 @@
 <br/>  
 
 
-## GitHub Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marmelka&show_icons=true&theme=dark&locale=en" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fo7cew3kwj7ogygsszl23sfqk4&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=somikdatta&&style=flat-square" align="center" />
-</div>  
-
-<br />
