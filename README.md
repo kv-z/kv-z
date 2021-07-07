@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marmelka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### Frontend  
+### Front-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -32,7 +32,7 @@
 
 
 
-### Backend  
+### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -80,7 +80,7 @@
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marmelka&show_icons=true&theme=dark&locale=en" align="center" /></div>  
 
 <br/>  
